@@ -1,6 +1,13 @@
+
+header{
+  background-color: darkgrey;
+}
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: aqua;
+  text-align: center;
+  color: blueviolet;
 }
 
 a {
